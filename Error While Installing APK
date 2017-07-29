@@ -1,0 +1,1 @@
+When it comes to problem "Error While Installing APK", the most time it's due to the instant run plugin of Android Studio,we just need to cancel that option in Settings(Mac is Performance).
